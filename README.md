@@ -2,8 +2,7 @@
 
 ### Project Overview
 This healthcare analysis project aims to provide insights into patient performance in hospitals over the past years. 
-By analyzing various aspects of healthcare data, we seek to identify trends, make data-driven recommendations, and gain 
-a deeper understanding of patient outcomes.
+By analyzing various aspects of healthcare data, we seek to identify trends, and gain a deeper understanding of patient outcomes.
 
 ### Tools
 - Excel
