@@ -8,9 +8,9 @@ a deeper understanding of patient outcomes.
 ### Tools
 - Excel
 - Power BI 
-  -Power query 
-  -Data cleaning 
-  -Creating reports
+  - Power query 
+  - Data cleaning 
+  - Creating reports
 
 ### Recommendations:
 - Optimize Hospital Resource Allocation and Monitor Doctor Performance
